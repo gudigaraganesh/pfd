@@ -226,6 +226,50 @@ to get information on periodic basis and communicates
 to precision farming devices and server.
 
 
+what is the difficulties in india
+-----------------------------------
+india faces split land problems like farming lands
+mostly very small ranging from 1 acre to 10 acre.
+There are large land farmers are there but most of the
+ farming lands are already split. Most of European and
+ US  technologies used for large land farming.
+The model technologies we can view is the  Isralian agriculture
+technology.
+Since we are using split farming lands farmer will not be
+able to offord high cost of software/sensors and
+technology implementations.
+To solve this problem india should adapt "Corporate farming"
+or Cooperative farming.
+1. use of coproorate or cop[erative farming can introduce
+new cooperative or corporate organization which will
+work on profit share basis model for utilizing the
+farm land of farmer along with giving him opportunity to
+work in his farm.
+2. Since corporate or cooperate farming is handling bigger
+lands, we can also use technology in farming by
+developing local centers for data communication to
+cloud servers.
+3. Development of Cloud services on public cloud like AWS,google,Bluemix
+or Azure or utilizing private cloud setup in each District,
+State and National also can solve the problem to
+develop a unique data gathering/ analytics servers.
+3. Develop subscription based  IOT sensor devices and handhelds, control
+devices will allow company's provide a device hub for
+farmers on  getting a percentage of their profit.
+4. develop Advertisment and entertainment based models
+to help the companies to get more revenue by providing
+free cloud services or device to farmers. The profits
+can be achieved by charging more on entertainment or other
+services.
+
+5. Since recent emergence of 4G and low cost launch of data/voice/sms
+services will help farmer in saving their networking costfor
+utilizing agro services.
+
+
+
+
+
 need contributors for following projects
 
 1. pfas - precision farming analytics software
