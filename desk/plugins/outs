@@ -1,0 +1,4 @@
+ssproto.cpp: In function `int ssSerial_processdata(void*, char*, int)':
+ssproto.cpp:114: warning: control reaches end of non-void function
+ssproto.cpp: In function `int ssSerial_Packet(acq_data*)':
+ssproto.cpp:143: warning: control reaches end of non-void function

@@ -1,0 +1,8 @@
+/home/smile/pfd/native/missing: Unknown `--is-lightweight' option
+Try `/home/smile/pfd/native/missing --help' for more information
+configure: WARNING: 'missing' script is too old or missing
+config.status: WARNING:  'Makefile.in' seems to ignore the --datarootdir setting
+config.status: WARNING:  'src/Makefile.in' seems to ignore the --datarootdir setting
+config.status: WARNING:  'plugins/Makefile.in' seems to ignore the --datarootdir setting
+config.status: WARNING:  'plugins/protocol/Makefile.in' seems to ignore the --datarootdir setting
+config.status: WARNING:  'plugins/protocol/sunshine/Makefile.in' seems to ignore the --datarootdir setting

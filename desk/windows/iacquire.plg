@@ -1,0 +1,113 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: pFDevice - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP3.tmp" with contents
+[
+/nologo /MDd /W4 /Gm /GR /GX /ZI /Od /I "..\..\wxWindows-2" /I "5.1\include\\" /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /D "__WXMSW__" /FR"Debug/" /Fp"Debug/pFDevice.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\wxProjects\pfdevice\src\pfdevice.cpp"
+"D:\wxProjects\pfdevice\src\cacquirehelp.cpp"
+"D:\wxProjects\pfdevice\src\cacquireshow.cpp"
+"D:\wxProjects\pfdevice\src\cchannelgrid.cpp"
+"D:\wxProjects\pfdevice\src\ccomsettings.cpp"
+"D:\wxProjects\pfdevice\src\cconfig.cpp"
+"D:\wxProjects\pfdevice\src\cconfigfile.cpp"
+"D:\wxProjects\pfdevice\src\cconnectionthread.cpp"
+"D:\wxProjects\pfdevice\src\ccontrolcentre.cpp"
+"D:\wxProjects\pfdevice\src\cdevicemanager.cpp"
+"D:\wxProjects\pfdevice\src\cdevicescreen.cpp"
+"D:\wxProjects\pfdevice\src\cdevicewindow.cpp"
+"D:\wxProjects\pfdevice\src\cdisplayframe.cpp"
+"D:\wxProjects\pfdevice\src\cdisplaythread.cpp"
+"D:\wxProjects\pfdevice\src\cgraphwindow.cpp"
+"D:\wxProjects\pfdevice\src\chardwaredlg.cpp"
+"D:\wxProjects\pfdevice\src\cmapdevice.cpp"
+"D:\wxProjects\pfdevice\src\cmultiplexdisp.cpp"
+"D:\wxProjects\pfdevice\src\portmapdlg.cpp"
+"D:\wxProjects\pfdevice\src\cvirtcomdlg.cpp"
+"D:\wxProjects\pfdevice\src\cvirtualcom.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP3.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP4.tmp" with contents
+[
+wxmsw25d_html.lib wxmsw25d_core.lib wxbase25d.lib wxtiffd.lib wxjpegd.lib wxpngd.lib wxzlibd.lib wxregexd.lib wxexpatd.lib winmm.lib comctl32.lib rpcrt4.lib wsock32.lib oleacc.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/pFDevice.pdb" /map:"Debug/pFDevice.map" /debug /machine:I386 /out:"Debug/pFDevice.exe" /pdbtype:sept /libpath:"..\..\wxWindows-2.5.1\lib\vc_lib" 
+.\Debug\pfdevice.obj
+.\Debug\cacquirehelp.obj
+.\Debug\cacquireshow.obj
+.\Debug\cchannelgrid.obj
+.\Debug\ccomsettings.obj
+.\Debug\cconfig.obj
+.\Debug\cconfigfile.obj
+.\Debug\cconnectionthread.obj
+.\Debug\ccontrolcentre.obj
+.\Debug\cdevicemanager.obj
+.\Debug\cdevicescreen.obj
+.\Debug\cdevicewindow.obj
+.\Debug\cdisplayframe.obj
+.\Debug\cdisplaythread.obj
+.\Debug\cgraphwindow.obj
+.\Debug\chardwaredlg.obj
+.\Debug\cmapdevice.obj
+.\Debug\cmultiplexdisp.obj
+.\Debug\portmapdlg.obj
+.\Debug\cvirtcomdlg.obj
+.\Debug\cvirtualcom.obj
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP4.tmp"
+<h3>Output Window</h3>
+Compiling...
+pfdevice.cpp
+d:\wxprojects\pfdevice\src\pfdevice.cpp(561) : warning C4100: 'event' : unreferenced formal parameter
+d:\wxprojects\pfdevice\src\pfdevice.cpp(566) : warning C4100: 'event' : unreferenced formal parameter
+d:\wxprojects\pfdevice\src\pfdevice.cpp(571) : warning C4100: 'evmax' : unreferenced formal parameter
+cacquirehelp.cpp
+cacquireshow.cpp
+cchannelgrid.cpp
+ccomsettings.cpp
+cconfig.cpp
+cconfigfile.cpp
+cconnectionthread.cpp
+d:\wxprojects\pfdevice\src\cconnectionthread.cpp(58) : warning C4100: 'file' : unreferenced formal parameter
+d:\wxprojects\pfdevice\src\cconnectionthread.cpp(58) : warning C4100: 'threadname' : unreferenced formal parameter
+ccontrolcentre.cpp
+cdevicemanager.cpp
+cdevicescreen.cpp
+cdevicewindow.cpp
+cdisplayframe.cpp
+cdisplaythread.cpp
+d:\wxprojects\pfdevice\src\cdisplaythread.cpp(73) : warning C4100: 'cfile' : unreferenced formal parameter
+d:\wxprojects\pfdevice\src\cdisplaythread.cpp(73) : warning C4100: 'threadname' : unreferenced formal parameter
+cgraphwindow.cpp
+chardwaredlg.cpp
+d:\wxprojects\pfdevice\src\chardwaredlg.cpp(35) : warning C4100: 'parent' : unreferenced formal parameter
+d:\wxprojects\pfdevice\src\chardwaredlg.cpp(35) : warning C4100: 'cConfig' : unreferenced formal parameter
+cmapdevice.cpp
+cmultiplexdisp.cpp
+portmapdlg.cpp
+cvirtcomdlg.cpp
+cvirtualcom.cpp
+Linking...
+cconnectionthread.obj : error LNK2005: "public: static class wxArrayThread __cdecl CConnectionThread::GetThreadArray(void)" (?GetThreadArray@CConnectionThread@@SA?AVwxArrayThread@@XZ) already defined in pfdevice.obj
+cconnectionthread.obj : error LNK2005: "public: static int __cdecl CConnectionThread::GetCount(void)" (?GetCount@CConnectionThread@@SAHXZ) already defined in pfdevice.obj
+cconnectionthread.obj : error LNK2005: "public: static void __cdecl CConnectionThread::IncCount(void)" (?IncCount@CConnectionThread@@SAXXZ) already defined in pfdevice.obj
+pfdevice.obj : error LNK2001: unresolved external symbol "private: static int CDisplayThread::m_DevCount" (?m_DevCount@CDisplayThread@@0HA)
+cdisplaythread.obj : error LNK2001: unresolved external symbol "private: static int CDisplayThread::m_DevCount" (?m_DevCount@CDisplayThread@@0HA)
+pfdevice.obj : error LNK2001: unresolved external symbol "private: static class wxArrayThread CConnectionThread::pConThreads" (?pConThreads@CConnectionThread@@0VwxArrayThread@@A)
+cconnectionthread.obj : error LNK2001: unresolved external symbol "private: static class wxArrayThread CConnectionThread::pConThreads" (?pConThreads@CConnectionThread@@0VwxArrayThread@@A)
+pfdevice.obj : error LNK2001: unresolved external symbol "private: static int CConnectionThread::m_DevCount" (?m_DevCount@CConnectionThread@@0HA)
+cconnectionthread.obj : error LNK2001: unresolved external symbol "private: static int CConnectionThread::m_DevCount" (?m_DevCount@CConnectionThread@@0HA)
+cdisplaythread.obj : error LNK2001: unresolved external symbol "private: static class wxArrayThread CDisplayThread::pDispThreads" (?pDispThreads@CDisplayThread@@0VwxArrayThread@@A)
+Debug/pFDevice.exe : fatal error LNK1120: 4 unresolved externals
+Error executing link.exe.
+
+
+
+<h3>Results</h3>
+pFDevice.exe - 11 error(s), 9 warning(s)
+</pre>
+</body>
+</html>

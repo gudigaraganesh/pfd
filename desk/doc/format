@@ -1,0 +1,13 @@
+[global]
+
+[channels]
+channel_01
+[devicename]
+dev=
+type=
+settings=
+report=
+channo=
+channame[0]=
+
+

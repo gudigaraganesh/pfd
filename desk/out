@@ -1,0 +1,25 @@
+./device/device.cpp: In member function ‘void wxDevice::CreateCommProfile()’:
+./device/device.cpp:82: error: invalid conversion from ‘const wxChar*’ to ‘char*’
+./device/device.cpp:82: error:   initializing argument 1 of ‘wxUSBCom::wxUSBCom(char*, bool)’
+./device/device.cpp:90: error: invalid conversion from ‘const wxChar*’ to ‘char*’
+./device/device.cpp:90: error:   initializing argument 1 of ‘wxBluetoothCom::wxBluetoothCom(char*, bool)’
+./device/device.cpp: In member function ‘char* wxDevice::MapDeviceName(wxString&)’:
+./device/device.cpp:116: warning: format ‘%d’ expects type ‘int’, but argument 3 has type ‘long unsigned int’
+./device/device.cpp:106: warning: unused variable ‘num’
+/usr/local/include/wx/statusbr.h: At global scope:
+/usr/local/include/wx/statusbr.h:26: warning: inline function ‘virtual wxListString::~wxListString()’ used but never defined
+/usr/local/include/wx/statusbr.h:26: warning: inline function ‘virtual wxListString::~wxListString()’ used but never defined
+/usr/local/include/wx/statbox.h:15: warning: inline function ‘virtual wxStaticBoxBase::~wxStaticBoxBase()’ used but never defined
+/usr/local/include/wx/statbox.h:15: warning: inline function ‘virtual wxStaticBoxBase::~wxStaticBoxBase()’ used but never defined
+/usr/local/include/wx/stattext.h:11: warning: inline function ‘virtual wxStaticTextBase::~wxStaticTextBase()’ used but never defined
+/usr/local/include/wx/stattext.h:11: warning: inline function ‘virtual wxStaticTextBase::~wxStaticTextBase()’ used but never defined
+/usr/local/include/wx/checklst.h:24: warning: inline function ‘virtual wxCheckListBoxBase::~wxCheckListBoxBase()’ used but never defined
+/usr/local/include/wx/checklst.h:24: warning: inline function ‘virtual wxCheckListBoxBase::~wxCheckListBoxBase()’ used but never defined
+/usr/local/include/wx/menu.h:40: warning: inline function ‘virtual wxMenuList::~wxMenuList()’ used but never defined
+/usr/local/include/wx/menu.h:40: warning: inline function ‘virtual wxMenuList::~wxMenuList()’ used but never defined
+/usr/local/include/wx/button.h:49: warning: inline function ‘virtual wxButtonBase::~wxButtonBase()’ used but never defined
+/usr/local/include/wx/button.h:49: warning: inline function ‘virtual wxButtonBase::~wxButtonBase()’ used but never defined
+/usr/local/include/wx/window.h:80: warning: inline function ‘virtual wxWindowList::~wxWindowList()’ used but never defined
+/usr/local/include/wx/window.h:80: warning: inline function ‘virtual wxWindowList::~wxWindowList()’ used but never defined
+make[1]: *** [pfdevice-device.o] Error 1
+make: *** [all-recursive] Error 1

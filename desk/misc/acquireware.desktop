@@ -1,0 +1,21 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=AcquireWare
+Name[xx]=xxAcquireWarexx
+Exec=acquireware
+Icon=acquireware
+Type=Application
+Comment=A simple wxWidgets Application
+Comment[da]=Et simpelt wxWidgets program
+Comment[de]=Eine einfache wxWidgets-Anwendung
+Comment[es]=Una aplicación wxWindows sencilla
+Comment[et]=Lihtne wxWidgets rakendus
+Comment[fr]=Une application wxWidgets simple.
+Comment[hu]=Egyszerű wxWidgets-alkalmazás
+Comment[it]=Semplice applicazione wxWidgets
+Comment[pl]=Prosta aplikacja wxWidgets
+Comment[pt]=Uma aplicação simples de wxWidgets
+Comment[pt_BR]=Um simples aplicativo wxWindows
+Comment[sr]=Једноставан wxWidgets програм
+Comment[sr@Latn]=Једноставан wxWidgets програм
+Comment[sv]=Ett enkelt wxWidgets-program

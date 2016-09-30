@@ -1,0 +1,112 @@
+./pfdevice.cpp: In member function ‘virtual bool wxPFdeviceapp::OnInit()’:
+./pfdevice.cpp:92: warning: unused variable ‘pConfig’
+./pfdevice.cpp: In member function ‘void wxPFdeviceFrame::CreateControlRoom(wxMultiplexDisp*, int, int)’:
+./pfdevice.cpp:820: warning: unused variable ‘styles’
+/usr/local/include/wx/event.h: At global scope:
+/usr/local/include/wx/event.h:2037: warning: inline function ‘wxEventTableEntry::wxEventTableEntry(const wxEventTableEntry&)’ used but never defined
+/usr/local/include/wx/statusbr.h:26: warning: inline function ‘virtual wxListString::~wxListString()’ used but never defined
+/usr/local/include/wx/statusbr.h:26: warning: inline function ‘virtual wxListString::~wxListString()’ used but never defined
+/usr/local/include/wx/statbox.h:15: warning: inline function ‘virtual wxStaticBoxBase::~wxStaticBoxBase()’ used but never defined
+/usr/local/include/wx/statbox.h:15: warning: inline function ‘virtual wxStaticBoxBase::~wxStaticBoxBase()’ used but never defined
+/usr/local/include/wx/stattext.h:11: warning: inline function ‘virtual wxStaticTextBase::~wxStaticTextBase()’ used but never defined
+/usr/local/include/wx/stattext.h:11: warning: inline function ‘virtual wxStaticTextBase::~wxStaticTextBase()’ used but never defined
+/usr/local/include/wx/checklst.h:24: warning: inline function ‘virtual wxCheckListBoxBase::~wxCheckListBoxBase()’ used but never defined
+/usr/local/include/wx/checklst.h:24: warning: inline function ‘virtual wxCheckListBoxBase::~wxCheckListBoxBase()’ used but never defined
+/usr/local/include/wx/menu.h:40: warning: inline function ‘virtual wxMenuList::~wxMenuList()’ used but never defined
+/usr/local/include/wx/menu.h:40: warning: inline function ‘virtual wxMenuList::~wxMenuList()’ used but never defined
+/usr/local/include/wx/button.h:49: warning: inline function ‘virtual wxButtonBase::~wxButtonBase()’ used but never defined
+/usr/local/include/wx/button.h:49: warning: inline function ‘virtual wxButtonBase::~wxButtonBase()’ used but never defined
+/usr/local/include/wx/window.h:80: warning: inline function ‘virtual wxWindowList::~wxWindowList()’ used but never defined
+/usr/local/include/wx/window.h:80: warning: inline function ‘virtual wxWindowList::~wxWindowList()’ used but never defined
+/root/olds/include/../images/newdevice.xpm:2: warning: ‘newdevice_xpm’ defined but not used
+/usr/local/include/wx/statusbr.h:26: warning: inline function ‘virtual wxListString::~wxListString()’ used but never defined
+/usr/local/include/wx/statusbr.h:26: warning: inline function ‘virtual wxListString::~wxListString()’ used but never defined
+/usr/local/include/wx/statbox.h:15: warning: inline function ‘virtual wxStaticBoxBase::~wxStaticBoxBase()’ used but never defined
+/usr/local/include/wx/statbox.h:15: warning: inline function ‘virtual wxStaticBoxBase::~wxStaticBoxBase()’ used but never defined
+/usr/local/include/wx/stattext.h:11: warning: inline function ‘virtual wxStaticTextBase::~wxStaticTextBase()’ used but never defined
+/usr/local/include/wx/stattext.h:11: warning: inline function ‘virtual wxStaticTextBase::~wxStaticTextBase()’ used but never defined
+/usr/local/include/wx/checklst.h:24: warning: inline function ‘virtual wxCheckListBoxBase::~wxCheckListBoxBase()’ used but never defined
+/usr/local/include/wx/checklst.h:24: warning: inline function ‘virtual wxCheckListBoxBase::~wxCheckListBoxBase()’ used but never defined
+/usr/local/include/wx/menu.h:40: warning: inline function ‘virtual wxMenuList::~wxMenuList()’ used but never defined
+/usr/local/include/wx/menu.h:40: warning: inline function ‘virtual wxMenuList::~wxMenuList()’ used but never defined
+/usr/local/include/wx/button.h:49: warning: inline function ‘virtual wxButtonBase::~wxButtonBase()’ used but never defined
+/usr/local/include/wx/button.h:49: warning: inline function ‘virtual wxButtonBase::~wxButtonBase()’ used but never defined
+/usr/local/include/wx/window.h:80: warning: inline function ‘virtual wxWindowList::~wxWindowList()’ used but never defined
+/usr/local/include/wx/window.h:80: warning: inline function ‘virtual wxWindowList::~wxWindowList()’ used but never defined
+/root/olds/include/../images/open.xpm:2: warning: ‘open_xpm’ defined but not used
+/root/olds/include/../images/help.xpm:2: warning: ‘help_xpm’ defined but not used
+/root/olds/include/../images/close.xpm:2: warning: ‘close_xpm’ defined but not used
+/root/olds/include/../images/connect.xpm:2: warning: ‘connect_xpm’ defined but not used
+/root/olds/include/../images/ethernet.xpm:2: warning: ‘ethernet_xpm’ defined but not used
+/root/olds/include/../images/print.xpm:2: warning: ‘print_xpm’ defined but not used
+/root/olds/include/../images/stop.xpm:2: warning: ‘stop_xpm’ defined but not used
+/root/olds/include/../images/ppp.xpm:2: warning: ‘ppp_xpm’ defined but not used
+/usr/local/include/wx/statusbr.h:26: warning: inline function ‘virtual wxListString::~wxListString()’ used but never defined
+/usr/local/include/wx/statusbr.h:26: warning: inline function ‘virtual wxListString::~wxListString()’ used but never defined
+/usr/local/include/wx/statbox.h:15: warning: inline function ‘virtual wxStaticBoxBase::~wxStaticBoxBase()’ used but never defined
+/usr/local/include/wx/statbox.h:15: warning: inline function ‘virtual wxStaticBoxBase::~wxStaticBoxBase()’ used but never defined
+/usr/local/include/wx/stattext.h:11: warning: inline function ‘virtual wxStaticTextBase::~wxStaticTextBase()’ used but never defined
+/usr/local/include/wx/stattext.h:11: warning: inline function ‘virtual wxStaticTextBase::~wxStaticTextBase()’ used but never defined
+/usr/local/include/wx/checklst.h:24: warning: inline function ‘virtual wxCheckListBoxBase::~wxCheckListBoxBase()’ used but never defined
+/usr/local/include/wx/checklst.h:24: warning: inline function ‘virtual wxCheckListBoxBase::~wxCheckListBoxBase()’ used but never defined
+/usr/local/include/wx/menu.h:40: warning: inline function ‘virtual wxMenuList::~wxMenuList()’ used but never defined
+/usr/local/include/wx/menu.h:40: warning: inline function ‘virtual wxMenuList::~wxMenuList()’ used but never defined
+/usr/local/include/wx/button.h:49: warning: inline function ‘virtual wxButtonBase::~wxButtonBase()’ used but never defined
+/usr/local/include/wx/button.h:49: warning: inline function ‘virtual wxButtonBase::~wxButtonBase()’ used but never defined
+/usr/local/include/wx/window.h:80: warning: inline function ‘virtual wxWindowList::~wxWindowList()’ used but never defined
+/usr/local/include/wx/window.h:80: warning: inline function ‘virtual wxWindowList::~wxWindowList()’ used but never defined
+/root/olds/include/../images/open.xpm:2: warning: ‘open_xpm’ defined but not used
+/root/olds/include/../images/help.xpm:2: warning: ‘help_xpm’ defined but not used
+/root/olds/include/../images/close.xpm:2: warning: ‘close_xpm’ defined but not used
+/root/olds/include/../images/connect.xpm:2: warning: ‘connect_xpm’ defined but not used
+/root/olds/include/../images/ethernet.xpm:2: warning: ‘ethernet_xpm’ defined but not used
+/root/olds/include/../images/print.xpm:2: warning: ‘print_xpm’ defined but not used
+/root/olds/include/../images/stop.xpm:2: warning: ‘stop_xpm’ defined but not used
+/root/olds/include/../images/ppp.xpm:2: warning: ‘ppp_xpm’ defined but not used
+/root/olds/include/../images/newdevice.xpm:2: warning: ‘newdevice_xpm’ defined but not used
+/usr/local/include/wx/statusbr.h:26: warning: inline function ‘virtual wxListString::~wxListString()’ used but never defined
+/usr/local/include/wx/statusbr.h:26: warning: inline function ‘virtual wxListString::~wxListString()’ used but never defined
+/usr/local/include/wx/statbox.h:15: warning: inline function ‘virtual wxStaticBoxBase::~wxStaticBoxBase()’ used but never defined
+/usr/local/include/wx/statbox.h:15: warning: inline function ‘virtual wxStaticBoxBase::~wxStaticBoxBase()’ used but never defined
+/usr/local/include/wx/stattext.h:11: warning: inline function ‘virtual wxStaticTextBase::~wxStaticTextBase()’ used but never defined
+/usr/local/include/wx/stattext.h:11: warning: inline function ‘virtual wxStaticTextBase::~wxStaticTextBase()’ used but never defined
+/usr/local/include/wx/checklst.h:24: warning: inline function ‘virtual wxCheckListBoxBase::~wxCheckListBoxBase()’ used but never defined
+/usr/local/include/wx/checklst.h:24: warning: inline function ‘virtual wxCheckListBoxBase::~wxCheckListBoxBase()’ used but never defined
+/usr/local/include/wx/menu.h:40: warning: inline function ‘virtual wxMenuList::~wxMenuList()’ used but never defined
+/usr/local/include/wx/menu.h:40: warning: inline function ‘virtual wxMenuList::~wxMenuList()’ used but never defined
+/usr/local/include/wx/button.h:49: warning: inline function ‘virtual wxButtonBase::~wxButtonBase()’ used but never defined
+/usr/local/include/wx/button.h:49: warning: inline function ‘virtual wxButtonBase::~wxButtonBase()’ used but never defined
+/usr/local/include/wx/window.h:80: warning: inline function ‘virtual wxWindowList::~wxWindowList()’ used but never defined
+/usr/local/include/wx/window.h:80: warning: inline function ‘virtual wxWindowList::~wxWindowList()’ used but never defined
+/root/olds/include/../images/open.xpm:2: warning: ‘open_xpm’ defined but not used
+/root/olds/include/../images/help.xpm:2: warning: ‘help_xpm’ defined but not used
+/root/olds/include/../images/close.xpm:2: warning: ‘close_xpm’ defined but not used
+/root/olds/include/../images/connect.xpm:2: warning: ‘connect_xpm’ defined but not used
+/root/olds/include/../images/ethernet.xpm:2: warning: ‘ethernet_xpm’ defined but not used
+/root/olds/include/../images/print.xpm:2: warning: ‘print_xpm’ defined but not used
+/root/olds/include/../images/stop.xpm:2: warning: ‘stop_xpm’ defined but not used
+/root/olds/include/../images/ppp.xpm:2: warning: ‘ppp_xpm’ defined but not used
+/root/olds/include/../images/newdevice.xpm:2: warning: ‘newdevice_xpm’ defined but not used
+/usr/local/include/wx/statusbr.h:26: warning: inline function ‘virtual wxListString::~wxListString()’ used but never defined
+/usr/local/include/wx/statusbr.h:26: warning: inline function ‘virtual wxListString::~wxListString()’ used but never defined
+/usr/local/include/wx/statbox.h:15: warning: inline function ‘virtual wxStaticBoxBase::~wxStaticBoxBase()’ used but never defined
+/usr/local/include/wx/statbox.h:15: warning: inline function ‘virtual wxStaticBoxBase::~wxStaticBoxBase()’ used but never defined
+/usr/local/include/wx/stattext.h:11: warning: inline function ‘virtual wxStaticTextBase::~wxStaticTextBase()’ used but never defined
+/usr/local/include/wx/stattext.h:11: warning: inline function ‘virtual wxStaticTextBase::~wxStaticTextBase()’ used but never defined
+/usr/local/include/wx/checklst.h:24: warning: inline function ‘virtual wxCheckListBoxBase::~wxCheckListBoxBase()’ used but never defined
+/usr/local/include/wx/checklst.h:24: warning: inline function ‘virtual wxCheckListBoxBase::~wxCheckListBoxBase()’ used but never defined
+/usr/local/include/wx/menu.h:40: warning: inline function ‘virtual wxMenuList::~wxMenuList()’ used but never defined
+/usr/local/include/wx/menu.h:40: warning: inline function ‘virtual wxMenuList::~wxMenuList()’ used but never defined
+/usr/local/include/wx/button.h:49: warning: inline function ‘virtual wxButtonBase::~wxButtonBase()’ used but never defined
+/usr/local/include/wx/button.h:49: warning: inline function ‘virtual wxButtonBase::~wxButtonBase()’ used but never defined
+/usr/local/include/wx/window.h:80: warning: inline function ‘virtual wxWindowList::~wxWindowList()’ used but never defined
+/usr/local/include/wx/window.h:80: warning: inline function ‘virtual wxWindowList::~wxWindowList()’ used but never defined
+/root/olds/include/../images/open.xpm:2: warning: ‘open_xpm’ defined but not used
+/root/olds/include/../images/help.xpm:2: warning: ‘help_xpm’ defined but not used
+/root/olds/include/../images/close.xpm:2: warning: ‘close_xpm’ defined but not used
+/root/olds/include/../images/connect.xpm:2: warning: ‘connect_xpm’ defined but not used
+/root/olds/include/../images/ethernet.xpm:2: warning: ‘ethernet_xpm’ defined but not used
+/root/olds/include/../images/print.xpm:2: warning: ‘print_xpm’ defined but not used
+/root/olds/include/../images/stop.xpm:2: warning: ‘stop_xpm’ defined but not used
+/root/olds/include/../images/ppp.xpm:2: warning: ‘ppp_xpm’ defined but not used
+/root/olds/include/../images/newdevice.xpm:2: warning: ‘newdevice_xpm’ defined but not used

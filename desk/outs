@@ -1,0 +1,136 @@
+./device/device.cpp: In member function ‘char* wxDevice::MapDeviceName(wxString&)’:
+./device/device.cpp:118: warning: format ‘%d’ expects type ‘int’, but argument 3 has type ‘long unsigned int’
+./device/device.cpp:108: warning: unused variable ‘num’
+/usr/local/include/wx/statusbr.h: At global scope:
+/usr/local/include/wx/statusbr.h:26: warning: inline function ‘virtual wxListString::~wxListString()’ used but never defined
+/usr/local/include/wx/statusbr.h:26: warning: inline function ‘virtual wxListString::~wxListString()’ used but never defined
+/usr/local/include/wx/statbox.h:15: warning: inline function ‘virtual wxStaticBoxBase::~wxStaticBoxBase()’ used but never defined
+/usr/local/include/wx/statbox.h:15: warning: inline function ‘virtual wxStaticBoxBase::~wxStaticBoxBase()’ used but never defined
+/usr/local/include/wx/stattext.h:11: warning: inline function ‘virtual wxStaticTextBase::~wxStaticTextBase()’ used but never defined
+/usr/local/include/wx/stattext.h:11: warning: inline function ‘virtual wxStaticTextBase::~wxStaticTextBase()’ used but never defined
+/usr/local/include/wx/checklst.h:24: warning: inline function ‘virtual wxCheckListBoxBase::~wxCheckListBoxBase()’ used but never defined
+/usr/local/include/wx/checklst.h:24: warning: inline function ‘virtual wxCheckListBoxBase::~wxCheckListBoxBase()’ used but never defined
+/usr/local/include/wx/menu.h:40: warning: inline function ‘virtual wxMenuList::~wxMenuList()’ used but never defined
+/usr/local/include/wx/menu.h:40: warning: inline function ‘virtual wxMenuList::~wxMenuList()’ used but never defined
+/usr/local/include/wx/button.h:49: warning: inline function ‘virtual wxButtonBase::~wxButtonBase()’ used but never defined
+/usr/local/include/wx/button.h:49: warning: inline function ‘virtual wxButtonBase::~wxButtonBase()’ used but never defined
+/usr/local/include/wx/window.h:80: warning: inline function ‘virtual wxWindowList::~wxWindowList()’ used but never defined
+/usr/local/include/wx/window.h:80: warning: inline function ‘virtual wxWindowList::~wxWindowList()’ used but never defined
+/usr/local/include/wx/statusbr.h:26: warning: inline function ‘virtual wxListString::~wxListString()’ used but never defined
+/usr/local/include/wx/statusbr.h:26: warning: inline function ‘virtual wxListString::~wxListString()’ used but never defined
+/usr/local/include/wx/statbox.h:15: warning: inline function ‘virtual wxStaticBoxBase::~wxStaticBoxBase()’ used but never defined
+/usr/local/include/wx/statbox.h:15: warning: inline function ‘virtual wxStaticBoxBase::~wxStaticBoxBase()’ used but never defined
+/usr/local/include/wx/stattext.h:11: warning: inline function ‘virtual wxStaticTextBase::~wxStaticTextBase()’ used but never defined
+/usr/local/include/wx/stattext.h:11: warning: inline function ‘virtual wxStaticTextBase::~wxStaticTextBase()’ used but never defined
+/usr/local/include/wx/checklst.h:24: warning: inline function ‘virtual wxCheckListBoxBase::~wxCheckListBoxBase()’ used but never defined
+/usr/local/include/wx/checklst.h:24: warning: inline function ‘virtual wxCheckListBoxBase::~wxCheckListBoxBase()’ used but never defined
+/usr/local/include/wx/menu.h:40: warning: inline function ‘virtual wxMenuList::~wxMenuList()’ used but never defined
+/usr/local/include/wx/menu.h:40: warning: inline function ‘virtual wxMenuList::~wxMenuList()’ used but never defined
+/usr/local/include/wx/button.h:49: warning: inline function ‘virtual wxButtonBase::~wxButtonBase()’ used but never defined
+/usr/local/include/wx/button.h:49: warning: inline function ‘virtual wxButtonBase::~wxButtonBase()’ used but never defined
+/usr/local/include/wx/window.h:80: warning: inline function ‘virtual wxWindowList::~wxWindowList()’ used but never defined
+/usr/local/include/wx/window.h:80: warning: inline function ‘virtual wxWindowList::~wxWindowList()’ used but never defined
+/usr/local/include/wx/statusbr.h:26: warning: inline function ‘virtual wxListString::~wxListString()’ used but never defined
+/usr/local/include/wx/statusbr.h:26: warning: inline function ‘virtual wxListString::~wxListString()’ used but never defined
+/usr/local/include/wx/statbox.h:15: warning: inline function ‘virtual wxStaticBoxBase::~wxStaticBoxBase()’ used but never defined
+/usr/local/include/wx/statbox.h:15: warning: inline function ‘virtual wxStaticBoxBase::~wxStaticBoxBase()’ used but never defined
+/usr/local/include/wx/stattext.h:11: warning: inline function ‘virtual wxStaticTextBase::~wxStaticTextBase()’ used but never defined
+/usr/local/include/wx/stattext.h:11: warning: inline function ‘virtual wxStaticTextBase::~wxStaticTextBase()’ used but never defined
+/usr/local/include/wx/checklst.h:24: warning: inline function ‘virtual wxCheckListBoxBase::~wxCheckListBoxBase()’ used but never defined
+/usr/local/include/wx/checklst.h:24: warning: inline function ‘virtual wxCheckListBoxBase::~wxCheckListBoxBase()’ used but never defined
+/usr/local/include/wx/menu.h:40: warning: inline function ‘virtual wxMenuList::~wxMenuList()’ used but never defined
+/usr/local/include/wx/menu.h:40: warning: inline function ‘virtual wxMenuList::~wxMenuList()’ used but never defined
+/usr/local/include/wx/button.h:49: warning: inline function ‘virtual wxButtonBase::~wxButtonBase()’ used but never defined
+/usr/local/include/wx/button.h:49: warning: inline function ‘virtual wxButtonBase::~wxButtonBase()’ used but never defined
+/usr/local/include/wx/window.h:80: warning: inline function ‘virtual wxWindowList::~wxWindowList()’ used but never defined
+/usr/local/include/wx/window.h:80: warning: inline function ‘virtual wxWindowList::~wxWindowList()’ used but never defined
+/usr/local/include/wx/statusbr.h:26: warning: inline function ‘virtual wxListString::~wxListString()’ used but never defined
+/usr/local/include/wx/statusbr.h:26: warning: inline function ‘virtual wxListString::~wxListString()’ used but never defined
+/usr/local/include/wx/statbox.h:15: warning: inline function ‘virtual wxStaticBoxBase::~wxStaticBoxBase()’ used but never defined
+/usr/local/include/wx/statbox.h:15: warning: inline function ‘virtual wxStaticBoxBase::~wxStaticBoxBase()’ used but never defined
+/usr/local/include/wx/stattext.h:11: warning: inline function ‘virtual wxStaticTextBase::~wxStaticTextBase()’ used but never defined
+/usr/local/include/wx/stattext.h:11: warning: inline function ‘virtual wxStaticTextBase::~wxStaticTextBase()’ used but never defined
+/usr/local/include/wx/checklst.h:24: warning: inline function ‘virtual wxCheckListBoxBase::~wxCheckListBoxBase()’ used but never defined
+/usr/local/include/wx/checklst.h:24: warning: inline function ‘virtual wxCheckListBoxBase::~wxCheckListBoxBase()’ used but never defined
+/usr/local/include/wx/menu.h:40: warning: inline function ‘virtual wxMenuList::~wxMenuList()’ used but never defined
+/usr/local/include/wx/menu.h:40: warning: inline function ‘virtual wxMenuList::~wxMenuList()’ used but never defined
+/usr/local/include/wx/button.h:49: warning: inline function ‘virtual wxButtonBase::~wxButtonBase()’ used but never defined
+/usr/local/include/wx/button.h:49: warning: inline function ‘virtual wxButtonBase::~wxButtonBase()’ used but never defined
+/usr/local/include/wx/window.h:80: warning: inline function ‘virtual wxWindowList::~wxWindowList()’ used but never defined
+/usr/local/include/wx/window.h:80: warning: inline function ‘virtual wxWindowList::~wxWindowList()’ used but never defined
+/root/olds/include/../images/fileopen.xpm:2: warning: ‘fileopen_xpm’ defined but not used
+/root/olds/include/../images/channel.xpm:2: warning: ‘channel_xpm’ defined but not used
+/root/olds/include/../images/close.xpm:2: warning: ‘close_xpm’ defined but not used
+/root/olds/include/../images/connect.xpm:2: warning: ‘connect_xpm’ defined but not used
+/root/olds/include/../images/ethernet.xpm:2: warning: ‘ethernet_xpm’ defined but not used
+/root/olds/include/../images/fileprint.xpm:2: warning: ‘fileprint’ defined but not used
+/root/olds/include/../images/linegraph.xpm:2: warning: ‘linegraph_icon’ defined but not used
+/root/olds/include/../images/ppp.xpm:2: warning: ‘ppp_xpm’ defined but not used
+/root/olds/include/../images/newdevice.xpm:2: warning: ‘newdevice_xpm’ defined but not used
+/usr/local/include/wx/statusbr.h:26: warning: inline function ‘virtual wxListString::~wxListString()’ used but never defined
+/usr/local/include/wx/statusbr.h:26: warning: inline function ‘virtual wxListString::~wxListString()’ used but never defined
+/usr/local/include/wx/statbox.h:15: warning: inline function ‘virtual wxStaticBoxBase::~wxStaticBoxBase()’ used but never defined
+/usr/local/include/wx/statbox.h:15: warning: inline function ‘virtual wxStaticBoxBase::~wxStaticBoxBase()’ used but never defined
+/usr/local/include/wx/stattext.h:11: warning: inline function ‘virtual wxStaticTextBase::~wxStaticTextBase()’ used but never defined
+/usr/local/include/wx/stattext.h:11: warning: inline function ‘virtual wxStaticTextBase::~wxStaticTextBase()’ used but never defined
+/usr/local/include/wx/checklst.h:24: warning: inline function ‘virtual wxCheckListBoxBase::~wxCheckListBoxBase()’ used but never defined
+/usr/local/include/wx/checklst.h:24: warning: inline function ‘virtual wxCheckListBoxBase::~wxCheckListBoxBase()’ used but never defined
+/usr/local/include/wx/menu.h:40: warning: inline function ‘virtual wxMenuList::~wxMenuList()’ used but never defined
+/usr/local/include/wx/menu.h:40: warning: inline function ‘virtual wxMenuList::~wxMenuList()’ used but never defined
+/usr/local/include/wx/button.h:49: warning: inline function ‘virtual wxButtonBase::~wxButtonBase()’ used but never defined
+/usr/local/include/wx/button.h:49: warning: inline function ‘virtual wxButtonBase::~wxButtonBase()’ used but never defined
+/usr/local/include/wx/window.h:80: warning: inline function ‘virtual wxWindowList::~wxWindowList()’ used but never defined
+/usr/local/include/wx/window.h:80: warning: inline function ‘virtual wxWindowList::~wxWindowList()’ used but never defined
+../lib/acqvis/channelgrid.cpp: In member function ‘void wxChannelGrid::SetLastGridColSize(int)’:
+../lib/acqvis/channelgrid.cpp:42: warning: unused variable ‘newwidth’
+/usr/local/include/wx/statusbr.h: At global scope:
+/usr/local/include/wx/statusbr.h:26: warning: inline function ‘virtual wxListString::~wxListString()’ used but never defined
+/usr/local/include/wx/statusbr.h:26: warning: inline function ‘virtual wxListString::~wxListString()’ used but never defined
+/usr/local/include/wx/statbox.h:15: warning: inline function ‘virtual wxStaticBoxBase::~wxStaticBoxBase()’ used but never defined
+/usr/local/include/wx/statbox.h:15: warning: inline function ‘virtual wxStaticBoxBase::~wxStaticBoxBase()’ used but never defined
+/usr/local/include/wx/stattext.h:11: warning: inline function ‘virtual wxStaticTextBase::~wxStaticTextBase()’ used but never defined
+/usr/local/include/wx/stattext.h:11: warning: inline function ‘virtual wxStaticTextBase::~wxStaticTextBase()’ used but never defined
+/usr/local/include/wx/checklst.h:24: warning: inline function ‘virtual wxCheckListBoxBase::~wxCheckListBoxBase()’ used but never defined
+/usr/local/include/wx/checklst.h:24: warning: inline function ‘virtual wxCheckListBoxBase::~wxCheckListBoxBase()’ used but never defined
+/usr/local/include/wx/menu.h:40: warning: inline function ‘virtual wxMenuList::~wxMenuList()’ used but never defined
+/usr/local/include/wx/menu.h:40: warning: inline function ‘virtual wxMenuList::~wxMenuList()’ used but never defined
+/usr/local/include/wx/button.h:49: warning: inline function ‘virtual wxButtonBase::~wxButtonBase()’ used but never defined
+/usr/local/include/wx/button.h:49: warning: inline function ‘virtual wxButtonBase::~wxButtonBase()’ used but never defined
+/usr/local/include/wx/window.h:80: warning: inline function ‘virtual wxWindowList::~wxWindowList()’ used but never defined
+/usr/local/include/wx/window.h:80: warning: inline function ‘virtual wxWindowList::~wxWindowList()’ used but never defined
+../lib/acqconfig/sunshine/ssconfig.cpp: In function ‘void InitChannels()’:
+../lib/acqconfig/sunshine/ssconfig.cpp:54: warning: spurious trailing ‘%’ in format
+/usr/local/include/wx/statusbr.h: At global scope:
+/usr/local/include/wx/statusbr.h:26: warning: inline function ‘virtual wxListString::~wxListString()’ used but never defined
+/usr/local/include/wx/statusbr.h:26: warning: inline function ‘virtual wxListString::~wxListString()’ used but never defined
+/usr/local/include/wx/statbox.h:15: warning: inline function ‘virtual wxStaticBoxBase::~wxStaticBoxBase()’ used but never defined
+/usr/local/include/wx/statbox.h:15: warning: inline function ‘virtual wxStaticBoxBase::~wxStaticBoxBase()’ used but never defined
+/usr/local/include/wx/stattext.h:11: warning: inline function ‘virtual wxStaticTextBase::~wxStaticTextBase()’ used but never defined
+/usr/local/include/wx/stattext.h:11: warning: inline function ‘virtual wxStaticTextBase::~wxStaticTextBase()’ used but never defined
+/usr/local/include/wx/checklst.h:24: warning: inline function ‘virtual wxCheckListBoxBase::~wxCheckListBoxBase()’ used but never defined
+/usr/local/include/wx/checklst.h:24: warning: inline function ‘virtual wxCheckListBoxBase::~wxCheckListBoxBase()’ used but never defined
+/usr/local/include/wx/menu.h:40: warning: inline function ‘virtual wxMenuList::~wxMenuList()’ used but never defined
+/usr/local/include/wx/menu.h:40: warning: inline function ‘virtual wxMenuList::~wxMenuList()’ used but never defined
+/usr/local/include/wx/button.h:49: warning: inline function ‘virtual wxButtonBase::~wxButtonBase()’ used but never defined
+/usr/local/include/wx/button.h:49: warning: inline function ‘virtual wxButtonBase::~wxButtonBase()’ used but never defined
+/usr/local/include/wx/window.h:80: warning: inline function ‘virtual wxWindowList::~wxWindowList()’ used but never defined
+/usr/local/include/wx/window.h:80: warning: inline function ‘virtual wxWindowList::~wxWindowList()’ used but never defined
+/usr/local/include/wx/statusbr.h:26: warning: inline function ‘virtual wxListString::~wxListString()’ used but never defined
+/usr/local/include/wx/statusbr.h:26: warning: inline function ‘virtual wxListString::~wxListString()’ used but never defined
+/usr/local/include/wx/statbox.h:15: warning: inline function ‘virtual wxStaticBoxBase::~wxStaticBoxBase()’ used but never defined
+/usr/local/include/wx/statbox.h:15: warning: inline function ‘virtual wxStaticBoxBase::~wxStaticBoxBase()’ used but never defined
+/usr/local/include/wx/stattext.h:11: warning: inline function ‘virtual wxStaticTextBase::~wxStaticTextBase()’ used but never defined
+/usr/local/include/wx/stattext.h:11: warning: inline function ‘virtual wxStaticTextBase::~wxStaticTextBase()’ used but never defined
+/usr/local/include/wx/checklst.h:24: warning: inline function ‘virtual wxCheckListBoxBase::~wxCheckListBoxBase()’ used but never defined
+/usr/local/include/wx/checklst.h:24: warning: inline function ‘virtual wxCheckListBoxBase::~wxCheckListBoxBase()’ used but never defined
+/usr/local/include/wx/menu.h:40: warning: inline function ‘virtual wxMenuList::~wxMenuList()’ used but never defined
+/usr/local/include/wx/menu.h:40: warning: inline function ‘virtual wxMenuList::~wxMenuList()’ used but never defined
+/usr/local/include/wx/button.h:49: warning: inline function ‘virtual wxButtonBase::~wxButtonBase()’ used but never defined
+/usr/local/include/wx/button.h:49: warning: inline function ‘virtual wxButtonBase::~wxButtonBase()’ used but never defined
+/usr/local/include/wx/window.h:80: warning: inline function ‘virtual wxWindowList::~wxWindowList()’ used but never defined
+/usr/local/include/wx/window.h:80: warning: inline function ‘virtual wxWindowList::~wxWindowList()’ used but never defined
+pfdevice-device.o(.text+0xfe3): In function `wxDevice::CreateReportProfile()':
+./device/device.cpp:131: undefined reference to `wxAcqConfig::GetReportProfile(wxString&, report_profile&)'
+collect2: ld returned 1 exit status
+make[1]: *** [pfdevice] Error 1
+make: *** [all-recursive] Error 1
